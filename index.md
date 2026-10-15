@@ -1,3 +1,9 @@
+## Publications
+
+---
+
+20 peer-reviewed papers on time-series modelling and fault detection — [see the full list](publications)
+
 ## Portfolio
 
 ---

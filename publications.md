@@ -4,7 +4,7 @@ title: Publications
 
 # Publications
 
-20 peer-reviewed papers (8 journal, 12 conference) on stochastic time-series modelling, fault detection and structural health monitoring, from my research at the University of Patras.
+20 peer-reviewed papers (8 journal, 12 conference) on stochastic time-series modelling, fault detection and structural health monitoring, from my research at the University of Patras, Greece.
 
 [← Back to portfolio](./)
 

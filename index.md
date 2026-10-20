@@ -18,11 +18,13 @@
 <img src="images/line_chart_1970_2021.svg?raw=true">
 <img src="images/map_file_2021.svg?raw=true">
 
+<!-- 
+Comment out placeholder projects below
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+-->
 ---
 
 

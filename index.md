@@ -1,4 +1,4 @@
-## Core expertise
+## Core Expertise
 
  -   statistical data analysis and inference
  -   time-series analysis and forecasting
@@ -9,15 +9,13 @@
  -   structural health monitoring
  -   piping vibrations
 
-## Publications
 
----
+## Publications
 
 20 peer-reviewed papers on time-series modelling and fault detection — [see the full list](publications)
 
-## Portfolio
 
----
+## Earlier Projects
 
 Looking for my earlier data analysis projects? [Explore my Python and R portfolio from 2020–2022](/archive)
 

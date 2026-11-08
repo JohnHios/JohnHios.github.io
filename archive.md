@@ -1,4 +1,4 @@
-## Earlier Portfolio
+## Earlier Projects
 [← Back to portfolio](./)
 
 
